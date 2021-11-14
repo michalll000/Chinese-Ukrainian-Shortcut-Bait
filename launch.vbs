@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "file:///C:\Project\special.bat",0,True

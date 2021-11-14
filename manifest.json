@@ -1,0 +1,9 @@
+{
+    "name": "CHINA",
+    "short_name": "CHINA",
+    "start_url": "build.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary"
+  }
